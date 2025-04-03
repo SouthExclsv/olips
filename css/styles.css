@@ -1,0 +1,106 @@
+.Cantik {
+    color: pink;
+}
+
+.header{
+    margin-top: 100px;
+}
+
+h4{
+    margin-top: 50px;
+}
+
+.jarak {
+    margin-top: 50px;
+}
+
+.harga-box {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50px;
+    max-width: 20%;
+   
+}
+
+.oval-btn {
+    border-radius: 50px;
+    padding: 10px 20px;
+
+}
+
+.harga-box {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50px;
+    max-width: 20%;
+}
+
+.oval-btn {
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+
+.harga-box {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50px;
+    max-width: 20%;
+}
+
+.oval-btn {
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+
+.harga-box {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50px;
+    max-width: 20%;
+}
+
+.oval-btn {
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+ 
+
+.harga-box {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50px;
+    max-width: 30%;
+}
+
+.sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+  
