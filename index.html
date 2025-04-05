@@ -912,7 +912,8 @@
                                         
                                         function sendMessage() {
   const nama = document.getElementById("Nama").value;
-  const produk = document.getElementById("Produk").value;
+  const produkString = document.getElementById("Produk").value;
+  const produk = encodeURI(produkString)
   const nomorWhatsapp = document.getElementById("NomorWhatsapp").value;
   const alamat = document.getElementById("Alamat").value;
   const harga = document.getElementById("Harga").value;
